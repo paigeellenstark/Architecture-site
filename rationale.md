@@ -12,7 +12,7 @@ I did keep the two-column layout for tablet+ from my original low-fidelity proto
 ## Font family and colours
 In project 1, I stated I wanted to stick to san-serif fonts to fit the brutalist theme. However, upon further research into coffee table books and publication best practice, I decided to use san-serif for the heading and serif for the body text. The reason behind this is because serif fonts assist with readability in publications (although not necessarily the best for screen readability, but I wanted to stick with a theme!)
 
-I decided to stick to dark grey and white for the colours, again to meet the publication theme and allow for good contrast for readability. Using a dark grey over black emulates what a user would see in real life—there are very few things that are 100% black.
+I decided to stick to dark grey and white for the primary colours, again to meet the publication theme and allow for good contrast for readability. Using a dark grey over black emulates what a user would see in real life—there are very few things that are 100% black. My feature colour (tan) has been used for links to provide the user with a visual representation links within the document, since I had removed the default underline.
 
 ## Responsive design
 I knew some basic responsive techniques going into this unit, and I decided to use these techniques rather than spending the time to properly understand better techniques such as flexbox. As a result, my website is responsive, but the code is messy in some places.
