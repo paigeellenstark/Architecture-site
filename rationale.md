@@ -18,10 +18,8 @@ Although it’s not considered best practice, I decided to keep the hamburger me
 |-----------|-------------|
 |[Stack Overflow](https://stackoverflow.com/)|I found myself using this site regularly to troubleshoot my code or to fill some knowledge gaps.|
 |[Stack Exchange](https://stackexchange.com/)|I found myself using this site regularly to troubleshoot my code or to fill some knowledge gaps.|
-|[CodePen by Brad Traversy](https://codepen.io/bradtraversy/pen/vMGBjQ)|*Pure CSS Hamburger Menu & Overlay*
-My menu is based off of Traversy’s code.|
-|[CSS Deck by Vadim Kruglow](https://cssdeck.com/labs/cool-and-easy-animated-underline-links)|*Cool animated underline links*
-I wanted to add some simple flair to my links – based of Kruglow’s code.|
+|[CodePen by Brad Traversy](https://codepen.io/bradtraversy/pen/vMGBjQ)|*Pure CSS Hamburger Menu & Overlay* - My menu is based off of Traversy’s code.|
+|[CSS Deck by Vadim Kruglow](https://cssdeck.com/labs/cool-and-easy-animated-underline-links)|*Cool animated underline links* - I wanted to add some simple flair to my links – based of Kruglow’s code.|
 |[W3schools](https://www.w3schools.com/)|I found this resource use when I needed something quickly, eg values associated with properties.|
 |[The W3C Markup Validation Service](https://validator.w3.org/)|I used this resource to check my HTML markup.
 
