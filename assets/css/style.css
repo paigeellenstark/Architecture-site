@@ -19,8 +19,12 @@ h1 {
   font-weight: 600;
 }
 .toc {
-  visibility: hidden;
-  font-size: 0.1em
+  color: rgb(68 68 68);
+  font-size: 1.6em;
+  font-weight: 500;
+  margin: 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px rgb(68 68 68) solid;
 }
 .tagline {
   font-size: 2em;
@@ -41,7 +45,6 @@ h1 {
   font-weight: 400;
   line-height: 1.5;
 }
-
 /* Link styles */
 /* Animation styles inspired by https://cssdeck.com/labs/cool-and-easy-animated-underline-links */
 a, a:visited {
@@ -86,7 +89,6 @@ p + ul {
   top: 55%;*/
   color: white;
 }
-
 .img-container {
   height: 100%;
   background-image: url(../images/churchill-house-37.jpg);
@@ -126,7 +128,7 @@ footer {
 .home-nav {
   position: absolute;
   right: 0;
-	bottom:5%;
+  bottom: 10%;
   font-family: 'Inter', sans-serif;
   background-color: white;
 }
@@ -231,38 +233,31 @@ footer {
   transition: opacity 0.1s ease;
 }
 /* END NAVIGATION */
-
-
-/* Tablet+ media queries */
-
 .home-footer {
-	border-top: 1px solid rgb(68 68 68);
-    text-align: left;
-	margin: 0 1em;
-	padding: 0.5em 0.5em 1em 0.5em
+  border-top: 1px solid rgb(68 68 68);
+  text-align: left;
+  margin: 0 1.6em;
+  padding: 0.5em 0.5em 1em 0.5em
 }
-
+/* Tablet+ media queries */
 @media (min-width: 601px) {
   .img-container {
     height: 100%;
     width: 70%;
   }
-	
-.hero-text {
-  width: 60%;
-  position: absolute;
-  bottom: 5%;
-}
-	
+  .hero-text {
+    width: 60%;
+    position: absolute;
+    bottom: 5%;
+  }
   .home-nav {
     width: 30%;
     background-color: none;
-  position: absolute;
-  right: 0;
-  top: 30%;
-
-}
-   .column-1 {
+    position: absolute;
+    right: 0;
+    top: 30%;
+  }
+  .column-1 {
     width: 25%;
     float: left;
     margin-right: 5%;
@@ -280,12 +275,6 @@ footer {
     padding-bottom: 0.5em;
     border-bottom: 2px rgb(68 68 68) solid;
   }
-.fake-footer {
-  color: rgb(68 68 68);
-  padding: 0.5em;
-  border-top: 0.5px solid rgb(68 68 68);
-  margin: 1em;
-}
 }
 /* Desktop media queries */
 @media (min-width: 1024px) {
